@@ -1,0 +1,66 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "text": "Начинаем с простенького. \n Судя по мультфильму, Чебурашка и Гена много гуляли и ходили пешком. А вот если бы они устали, то могли бы спокойно воспользоваться любым другим способом передвижения, кроме одного. \n Какого?",
+      "answers": [
+        "../src/assets/answers/answer1.jpg",
+        "../src/assets/answers/answer2.jpg",
+        "../src/assets/answers/answer3.jpg",
+        "../src/assets/answers/answer4.jpg"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 2,
+      "text": "Вопрос 2 \n Судя по мультфильму, Чебурашка и Гена много гуляли и ходили пешком. А вот если бы они устали, то могли бы спокойно воспользоваться любым другим способом передвижения, кроме одного. \n Какого?",
+      "answers": [
+        "../src/assets/answers/answer4.jpg",
+        "../src/assets/answers/answer2.jpg",
+        "../src/assets/answers/answer1.jpg",
+        "../src/assets/answers/answer4.jpg"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 3,
+      "text": "Вопрос 3 \n Судя по мультфильму, Чебурашка и Гена много гуляли и ходили пешком. А вот если бы они устали, то могли бы спокойно воспользоваться любым другим способом передвижения, кроме одного. \n Какого?",
+      "answers": [
+        "../src/assets/answers/answer4.jpg",
+        "../src/assets/answers/answer3.jpg",
+        "../src/assets/answers/answer2.jpg",
+        "../src/assets/answers/answer1.jpg"
+      ],
+      "correct": 3
+    },
+    {
+      "id": 4,
+      "text": "Вопрос 4 \n Судя по мультфильму, Чебурашка и Гена много гуляли и ходили пешком. А вот если бы они устали, то могли бы спокойно воспользоваться любым другим способом передвижения, кроме одного. \n Какого?",
+      "answers": [
+        "../src/assets/answers/answer2.jpg",
+        "../src/assets/answers/answer4.jpg",
+        "../src/assets/answers/answer1.jpg",
+        "../src/assets/answers/answer3.jpg"
+      ],
+      "correct": 1
+    }
+  ],
+  "result": [
+    {
+      "count": 2,
+      "text": "2 ответа"
+    },
+    {
+      "count": 1,
+      "text": "1 правильный ответ"
+    },
+    {
+      "count": 3,
+      "text": "3 правильных ответа"
+    },
+    {
+      "count": 4,
+      "text": "4 правильных ответа"
+    }
+  ]
+}
